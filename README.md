@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ammar DRIDI</h1>
+<h1 align="center">Hi 👋, I'm Ammar</h1>
 <h3 align="center">I am a Computer Engineering student at the Higher School of Computer Science (ESTIN) in Bejaia, Algeria. I am passionate about Artificial Intelligence, Data Science, and Full-Stack Web Development. I enjoy solving complex problems, working on challenging projects, and transforming theoretical knowledge into practical and efficient solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammardridi&label=Profile%20views&color=0e75b6&style=flat" alt="ammardridi" /> </p>
